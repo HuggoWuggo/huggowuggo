@@ -28,6 +28,8 @@ I have been coding for 6 years and I have made many interesting projects!
      src="https://streak-stats.demolab.com?user=HuggoWuggo&theme=catppuccin-mocha&border_radius=5.4&date_format=j%20M%5B%20Y%5D"/>
 
 <!-- Gopher GIF -->
-<img alt="Gopher" align="left" width="20%" height="20%" loading="eager" role="presentation" 
+<img alt="Gopher" align="left" width="20%" height="20%"
      src="https://miro.medium.com/v2/resize:fit:500/1*5cWR6sCV6I8ztKSYphlEsA.gif">
+     
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/fe36cc42774743.57ee5f329fae6.gif" width="20%" height="20%">
      
