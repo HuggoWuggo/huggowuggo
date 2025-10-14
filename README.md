@@ -1,4 +1,4 @@
-Hi 👋 My name is Hugo Lewczak
+Hi 👋 My name is Hugo
 =====================================================================================================================================
 
 Low Level Developer and Cryptography Enthusiast
