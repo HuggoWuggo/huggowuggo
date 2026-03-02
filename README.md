@@ -1,14 +1,14 @@
 Hi 👋 My name is Hugo
 =====================================================================================================================================
 
-Low Level Developer and Cryptography Enthusiast
+Low-Level Developer and Cryptography Enthusiast
 -----------------------------------------------
 
-I have been coding for 6 years and I have made many interesting projects!
+I have been coding for 7 years, and I have made many interesting projects!
 
-* 🌍  I'm based in Sydney Australia
+* 🌍  I'm based in Sydney, Australia
 * ✉️  You can contact me at [hugol@faulco.com](mailto:hugol@faulco.com)
-* 🧠  I'm currently learning Go and Low Level Design Concepts
+* 🧠  I'm currently learning Go and Low-Level Design Concepts
 * 👥  I'm looking to collaborate on Anything at All.
 
 <p align="left">
