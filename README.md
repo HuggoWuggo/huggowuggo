@@ -7,7 +7,7 @@ Low-Level Developer and Cryptography Enthusiast
 I have been coding for 7 years, and I have made many interesting projects!
 
 * 🌍  I'm based in Sydney, Australia
-* ✉️  You can contact me at [hugol@faulco.com](mailto:hugol@faulco.com)
+* ✉️  You can contact me at [legal.oguh@gmail.com](mailto:legal.oguh@gmail.com)
 * 🧠  I'm currently studying Rust Advanced Thread Development and Linux Kernel Development Concepts
 * 👥  I'm looking to collaborate on Anything you need me to
 
